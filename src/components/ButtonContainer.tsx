@@ -6,17 +6,17 @@ const ButtonContainer: React.FC = () => {
     {
       text: "🌊 Открыть Океан",
       gradient: "bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600",
-      url: "https://ocean.com",
+      url: "https://t.me/your_channel",
     },
     {
       text: "🌸 Весенний Сад",
       gradient: "bg-gradient-to-r from-pink-400 via-rose-500 to-orange-500",
-      url: "https://garden.com",
+      url: "https://instagram.com/your_profile",
     },
     {
       text: "✨ Звёздное Небо",
       gradient: "bg-gradient-to-r from-purple-500 via-indigo-600 to-blue-700",
-      url: "https://stars.com",
+      url: "https://github.com/your_repo",
     },
   ];
 
